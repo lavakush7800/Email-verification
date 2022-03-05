@@ -9,4 +9,8 @@ class FooterController extends Controller
    public function index(){
        return view('footer');
    }
+
+   public function show(){
+    return view('footer');
+}
 }
