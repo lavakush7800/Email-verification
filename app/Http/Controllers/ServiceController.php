@@ -8,6 +8,6 @@ class ServiceController extends Controller
 {
     //
     public function inde(){
-        return view();
+        return view('Service');
     }
 }
