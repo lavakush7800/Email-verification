@@ -9,4 +9,7 @@ class AdminContrioller extends Controller
     public function index(){
         return view('admin');
     }
+    public function store(){
+        
+    }
 }
